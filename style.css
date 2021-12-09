@@ -3,3 +3,51 @@ body {
   height: 100%;
   margin: 0;
 }
+
+div {
+  text-align: center;
+}
+
+
+h1 {
+  text-align: center;
+}
+
+figure {
+  text-align: center;
+}
+
+nav {
+  text-align: center;
+  padding: 10x;
+}
+
+nav a {
+  background-color: grey;
+}
+
+/* how do I alter the a elements inside the 
+nav bar and not the entire nav bar itself?*/
+
+figcaption {
+  font-size: x-small;
+}
+
+#featured-property p{
+  width: 800px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+
+div {
+  background-color: white;
+  text-align: center;
+  width: 25%;
+  float: left;
+}
+
+
+/*ok just wtf do I do here */
